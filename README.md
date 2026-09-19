@@ -6,17 +6,20 @@
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs welcome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0 1.0"></a>
+  <a href="https://ayautomate.com"><img src="https://img.shields.io/badge/sponsored%20by-AY%20Automate-1f4bff.svg?style=flat-square" alt="Sponsored by AY Automate"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/open%20source-CC0%201.0-blue.svg?style=flat-square" alt="Open source"></a>
 </p>
 
 # Awesome Jev use cases
 
-A list of things built with Jev, TypeSafe's model for typed decisions, with the numbers behind them: who posted each demo, how many followers they have, how many likes it got, and what the limits of the model are. This list is unofficial and is not affiliated with TypeSafe.
+A list of things built with Jev, TypeSafe's model for typed decisions, with the numbers behind them: who posted each demo, how many followers they have, how many likes it got, and what the limits of the model are. This list is open source (CC0), free to copy and reuse, and sponsored by [AY Automate](https://ayautomate.com). It is unofficial and is not affiliated with TypeSafe.
 
 Every entry links to the original post or repository. Ideas that nobody has shipped are in their own section and marked as ideas.
 
 ## Contents
 
 - [Start here](#start-here)
+- [Try Jev free right now](#try-jev-free-right-now)
 - [Numbers at a glance](#numbers-at-a-glance)
 - [Popular demos, at a glance](#popular-demos-at-a-glance)
 - [The first week in numbers](#the-first-week-in-numbers)
@@ -46,6 +49,14 @@ Short on time? Read in this order.
 3. [Patterns](#patterns) shows how the working demos are put together.
 4. [Reported cost and latency](#reported-cost-and-latency) has the price and speed numbers.
 5. [Contributing](#contributing) shows how to add yours.
+
+## Try Jev free right now
+
+[Vercel Developers announced](https://x.com/vercel_dev/status/2101116818463281579) on 2026-09-19 that Jev is free on Vercel AI Gateway until Sept 25. The model page is [vercel.com/ai-gateway/models/jev](https://vercel.com/ai-gateway/models/jev). Outside that window, the price from TypeSafe is $42 per billion input tokens, and prices can change, so check before you build on it.
+
+[Vercel's earlier post](https://x.com/vercel/status/2101077346203971900) says Jev was adopted faster than any other model in AI Gateway history. It reports about 13% of teams in the first day, 2x the GPT-5.6 family and 6x Fable 5.1. Those are Vercel's figures and I have not verified them. The free-window post had 2,043 likes and 552,601 views when I read it.
+
+To use anything in this list, copy the pattern, get a key, and start with one question type. The [Patterns](#patterns) section shows how.
 
 ## Numbers at a glance
 
@@ -640,6 +651,10 @@ Where things live:
 | `assets/` | Banner, charts and preview frames |
 
 Full rules for an entry are in [CONTRIBUTING.md](CONTRIBUTING.md). Every entry needs a source link that opens, numbers named to whoever reported them, and one to three sentences.
+
+## Sponsor
+
+Sponsored by [AY Automate](https://ayautomate.com), an AI-native engineering company. This list stays free and open source.
 
 ## License
 
