@@ -18,10 +18,10 @@ Every entry links to the original post or repository. Ideas that nobody has ship
 
 ## Contents
 
+- [Top 30 popular demos](#top-30-popular-demos)
 - [Start here](#start-here)
 - [Try Jev free right now](#try-jev-free-right-now)
 - [Numbers at a glance](#numbers-at-a-glance)
-- [Popular demos, at a glance](#popular-demos-at-a-glance)
 - [The first week in numbers](#the-first-week-in-numbers)
 - [Most-liked demos](#most-liked-demos)
 - [Small accounts, big results](#small-accounts-big-results)
@@ -39,6 +39,43 @@ Every entry links to the original post or repository. Ideas that nobody has ship
 - [Tools](#tools)
 - [How this list was made](#how-this-list-was-made)
 - [Contributing](#contributing)
+
+## Top 30 popular demos
+
+The 30 most-liked demos, ranked. Click a card to open the original post. Each card shows the demo's rank, area, author, likes, reposts, and reach (likes divided by the author's followers). Preview frames are low-resolution stills from the builders' own videos and belong to them. If an author wants one removed, open an issue. Full metrics for every demo are in [docs](docs/README.md).
+
+<p align="center">
+<a href="https://x.com/tamarajtran/status/2100694549362553153"><img src="assets/cards/01-instant-compaction.svg" alt="#1 Instant compaction for Claude" width="49%"></a>
+<a href="https://x.com/gregpr07/status/2100411066966749359"><img src="assets/cards/02-browser-use-flights.svg" alt="#2 Flight search with Browser Use" width="49%"></a>
+<a href="https://x.com/RBilgil/status/2100976648552169805"><img src="assets/cards/03-rbilgil-slop-detector.svg" alt="#3 Real-time slop detector as you scroll" width="49%"></a>
+<a href="https://x.com/TheMattBerman/status/2100654891756589230"><img src="assets/cards/04-competitor-ad-teardown.svg" alt="#4 724 competitor ads, broken down" width="49%"></a>
+<a href="https://x.com/instantricecook/status/2100814590300889426"><img src="assets/cards/05-voice-computer-use-mac.svg" alt="#5 Voice-controlled computer use on a Mac" width="49%"></a>
+<a href="https://x.com/jarrodwatts/status/2100356151468585346"><img src="assets/cards/06-jev-trader.svg" alt="#6 jev-trader" width="49%"></a>
+<a href="https://x.com/CompleteSkeptic/status/2099925687465570372"><img src="assets/cards/07-jev-plays-doom.svg" alt="#7 Jev plays Doom" width="49%"></a>
+<a href="https://x.com/jackcheng/status/2100729670991802386"><img src="assets/cards/08-gesture-canvas.svg" alt="#8 A canvas you control by pointing and speaking" width="49%"></a>
+<a href="https://x.com/_MaxBlade/status/2100634359099232678"><img src="assets/cards/09-subway-surfers.svg" alt="#9 Jev plays Subway Surfers" width="49%"></a>
+<a href="https://x.com/iam_zachi/status/2100529273186472318"><img src="assets/cards/10-realtime-ad-blocker.svg" alt="#10 A real-time ad blocker" width="49%"></a>
+<a href="https://x.com/rileybrown/status/2100404532119269426"><img src="assets/cards/11-500-emails-3-cents.svg" alt="#11 500 emails for 3.5 cents" width="49%"></a>
+<a href="https://x.com/maubaron/status/2100738237237002706"><img src="assets/cards/12-smash-bros.svg" alt="#12 Jev plays Smash Bros. against itself" width="49%"></a>
+<a href="https://x.com/ryanvogel/status/2100042788851101842"><img src="assets/cards/13-inbox-triage-1500-emails.svg" alt="#13 Triage across 1,500 emails" width="49%"></a>
+<a href="https://x.com/romanbuildsaas/status/2100891604735099103"><img src="assets/cards/14-lead-outreach-scoring.svg" alt="#14 700 leads scored in 40 seconds" width="49%"></a>
+<a href="https://x.com/faadilhshaik/status/2100086301894881578"><img src="assets/cards/15-jev-plays-mario.svg" alt="#15 Jev plays Super Mario Bros." width="49%"></a>
+<a href="https://x.com/iam_zachi/status/2100679300756435135"><img src="assets/cards/16-postgres-jev-function.svg" alt="#16 jev() for PostgreSQL" width="49%"></a>
+<a href="https://x.com/HugoDuprez/status/2100953089003921543"><img src="assets/cards/17-realtime-game-levels.svg" alt="#17 Game levels generated in real time" width="49%"></a>
+<a href="https://x.com/dabit3/status/2100756930054504776"><img src="assets/cards/18-predictive-launcher.svg" alt="#18 Keystroke oracle" width="49%"></a>
+<a href="https://x.com/vinnylarouge/status/2100170846346097083"><img src="assets/cards/19-jevlike.svg" alt="#19 jevlike" width="49%"></a>
+<a href="https://x.com/nutlope/status/2100426999546184123"><img src="assets/cards/20-1kpapers.svg" alt="#20 1kpapers" width="49%"></a>
+<a href="https://x.com/ephraimduncan/status/2100454070536351824"><img src="assets/cards/21-jev-model-router.svg" alt="#21 A model router on Jev" width="49%"></a>
+<a href="https://x.com/milindlabs/status/2100631847155994852"><img src="assets/cards/22-computer-use-without-screenshots.svg" alt="#22 Computer use without screenshots" width="49%"></a>
+<a href="https://x.com/danshipper/status/2099947471518474522"><img src="assets/cards/23-every-editorial-judgments.svg" alt="#23 Every’s editorial vibe check" width="49%"></a>
+<a href="https://x.com/sarvagya_kul/status/2100980770206879849"><img src="assets/cards/24-job-match-prediction.svg" alt="#24 400 companies matched to one candidate" width="49%"></a>
+<a href="https://x.com/abolbuild/status/2100523868913807410"><img src="assets/cards/25-10k-trading.svg" alt="#25 $10,000 in Jev’s hands" width="49%"></a>
+<a href="https://x.com/_MaxBlade/status/2100967959879471519"><img src="assets/cards/26-ambient-assistant.svg" alt="#26 An always-on assistant with no wake word" width="49%"></a>
+<a href="https://x.com/robj3d3/status/2100722975645598191"><img src="assets/cards/27-superx-post-scoring.svg" alt="#27 Post scoring with SuperX" width="49%"></a>
+<a href="https://x.com/robj3d3/status/2101074194260000982"><img src="assets/cards/28-doomscroll-filter.svg" alt="#28 Doomscroll Filter" width="49%"></a>
+<a href="https://x.com/dabit3/status/2100780008193020049"><img src="assets/cards/29-predictive-spreadsheets.svg" alt="#29 Predictive spreadsheets" width="49%"></a>
+<a href="https://x.com/leojrr/status/2100470174130250127"><img src="assets/cards/30-x-algorithm-simulator.svg" alt="#30 The X algorithm, rebuilt with Jev" width="49%"></a>
+</p>
 
 ## Start here
 
@@ -87,15 +124,6 @@ Snapshot of 2026-09-19.
 - 37 open-source repositories below, with 21,456 GitHub stars combined. Each one mentions Jev or TypeSafe in its own README.
 - The four most-liked demos are a Claude Code plugin, a browser agent, an ad teardown and a Mac voice assistant. None of them generates text with Jev.
 
-## Popular demos, at a glance
-
-Each frame is a low-resolution still from the builder's own video, linked to their post. Video and frame belong to the authors. Open the post to watch it. If an author wants a frame removed, open an issue and it goes.
-
-| | | |
-| --- | --- | --- |
-| [<img src="assets/thumbs/tamarajtran.jpg" width="260">](https://x.com/tamarajtran/status/2100694549362553153)<br>**Instant compaction for Claude**<br>@tamarajtran, 10,435 likes<br>[details](docs/demos/instant-compaction.md) | [<img src="assets/thumbs/gregpr07.jpg" width="260">](https://x.com/gregpr07/status/2100411066966749359)<br>**Flight search with Browser Use**<br>@gregpr07, 8,723 likes<br>[details](docs/demos/browser-use-flights.md) | [<img src="assets/thumbs/TheMattBerman.jpg" width="260">](https://x.com/TheMattBerman/status/2100654891756589230)<br>**724 competitor ads, broken down**<br>@TheMattBerman, 6,348 likes<br>[details](docs/demos/competitor-ad-teardown.md) |
-| [<img src="assets/thumbs/instantricecook.jpg" width="260">](https://x.com/instantricecook/status/2100814590300889426)<br>**Voice-controlled computer use on a Mac**<br>@instantricecook, 5,016 likes<br>[details](docs/demos/voice-computer-use-mac.md) | [<img src="assets/thumbs/jarrodwatts.jpg" width="260">](https://x.com/jarrodwatts/status/2100356151468585346)<br>**jev-trader**<br>@jarrodwatts, 4,913 likes<br>[details](docs/demos/jev-trader.md) | [<img src="assets/thumbs/jackcheng.jpg" width="260">](https://x.com/jackcheng/status/2100729670991802386)<br>**A canvas you control by pointing and speaking**<br>@jackcheng, 4,797 likes<br>[details](docs/demos/gesture-canvas.md) |
-| [<img src="assets/thumbs/iam_zachi.jpg" width="260">](https://x.com/iam_zachi/status/2100529273186472318)<br>**A real-time ad blocker**<br>@iam_zachi, 3,872 likes<br>[details](docs/demos/realtime-ad-blocker.md) | [<img src="assets/thumbs/rileybrown.jpg" width="260">](https://x.com/rileybrown/status/2100404532119269426)<br>**500 emails for 3.5 cents**<br>@rileybrown, 3,853 likes<br>[details](docs/demos/500-emails-3-cents.md) | [<img src="assets/thumbs/RBilgil.jpg" width="260">](https://x.com/RBilgil/status/2100976648552169805)<br>**Real-time slop detector as you scroll**<br>@RBilgil, 7,180 likes<br>[details](docs/demos/rbilgil-slop-detector.md) |
 
 ## Most-liked demos
 
