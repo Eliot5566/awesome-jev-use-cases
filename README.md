@@ -20,6 +20,7 @@ Every entry links to the original post or repository. Ideas that nobody has ship
 
 - [Top 30 popular demos](#top-30-popular-demos)
 - [Start here](#start-here)
+- [Browse by area](#browse-by-area)
 - [Try Jev free right now](#try-jev-free-right-now)
 - [Numbers at a glance](#numbers-at-a-glance)
 - [The first week in numbers](#the-first-week-in-numbers)
@@ -86,6 +87,115 @@ Short on time? Read in this order.
 3. [Patterns](#patterns) shows how the working demos are put together.
 4. [Reported cost and latency](#reported-cost-and-latency) has the price and speed numbers.
 5. [Contributing](#contributing) shows how to add yours.
+
+## Browse by area
+
+Every tracked demo, grouped by what it does and ranked by likes inside each group.
+
+| Area | Demos | Top demo | Likes |
+| --- | --- | --- | --- |
+| [Content and growth](#content-and-growth) | 18 | [Real-time slop detector as you scroll](https://x.com/RBilgil/status/2100976648552169805) | 7,180 |
+| [Apps and tools](#apps-and-tools) | 17 | [Instant compaction for Claude](https://x.com/tamarajtran/status/2100694549362553153) | 10,435 |
+| [Agents and computer use](#agents-and-computer-use) | 14 | [Flight search with Browser Use](https://x.com/gregpr07/status/2100411066966749359) | 8,723 |
+| [Triage and routing](#triage-and-routing) | 9 | [500 emails for 3.5 cents](https://x.com/rileybrown/status/2100404532119269426) | 3,853 |
+| [Games and real time](#games-and-real-time) | 7 | [Jev plays Doom](https://x.com/CompleteSkeptic/status/2099925687465570372) | 4,890 |
+| [Research and data](#research-and-data) | 7 | [jevlike](https://x.com/vinnylarouge/status/2100170846346097083) | 2,018 |
+| [Trading and markets](#trading-and-markets) | 2 | [jev-trader](https://x.com/jarrodwatts/status/2100356151468585346) | 4,913 |
+
+### Content and growth
+
+- [Real-time slop detector as you scroll](https://x.com/RBilgil/status/2100976648552169805) by [@RBilgil](https://x.com/RBilgil), 7,180 likes.
+- [724 competitor ads, broken down](https://x.com/TheMattBerman/status/2100654891756589230) by [@TheMattBerman](https://x.com/TheMattBerman), 6,348 likes.
+- [700 leads scored in 40 seconds](https://x.com/romanbuildsaas/status/2100891604735099103) by [@romanbuildsaas](https://x.com/romanbuildsaas), 3,138 likes.
+- [Every’s editorial vibe check](https://x.com/danshipper/status/2099947471518474522) by [@danshipper](https://x.com/danshipper), 1,818 likes.
+- [Post scoring with SuperX](https://x.com/robj3d3/status/2100722975645598191) by [@robj3d3](https://x.com/robj3d3), 1,341 likes.
+- [Doomscroll Filter](https://x.com/robj3d3/status/2101074194260000982) by [@robj3d3](https://x.com/robj3d3), 1,213 likes.
+- [The X algorithm, rebuilt with Jev](https://x.com/leojrr/status/2100470174130250127) by [@leojrr](https://x.com/leojrr), 1,167 likes.
+- [SEO and GEO fixes, 90% cheaper](https://x.com/irabukht/status/2101090579127951694) by [@irabukht](https://x.com/irabukht), 1,146 likes.
+- [Live viral post analyzer](https://x.com/rileybrown/status/2100425868053008758) by [@rileybrown](https://x.com/rileybrown), 915 likes.
+- [Ad creatives from filtered assets](https://x.com/higgsfield_ai/status/2101117855622463719) by [@higgsfield_ai](https://x.com/higgsfield_ai), 824 likes.
+- [3,282 posts, eight questions each](https://x.com/iannuttall/status/2100668908227162567) by [@iannuttall](https://x.com/iannuttall), 740 likes.
+- [TypeSafe Typewriter](https://x.com/stevekrouse/status/2100287368221659289) by [@stevekrouse](https://x.com/stevekrouse), 587 likes.
+- [Lurk](https://x.com/mxfp4/status/2101070906852298910) by [@mxfp4](https://x.com/mxfp4), 559 likes.
+- [Jev Detector](https://x.com/jozef_gherman/status/2100627898436571555) by [@jozef_gherman](https://x.com/jozef_gherman), 296 likes.
+- [A filter for reply-guy comments](https://x.com/iannuttall/status/2100888635943883244) by [@iannuttall](https://x.com/iannuttall), 250 likes.
+- [X timeline labeler](https://x.com/the_cyw/status/2101020586931875932) by [@the_cyw](https://x.com/the_cyw), 79 likes.
+- [700 live ads in 40 seconds](https://x.com/Yarilo7brigada/status/2100946657965912253) by [@Yarilo7brigada](https://x.com/Yarilo7brigada), 59 likes.
+- [AI slop detector](https://x.com/kraayenJon/status/2101157548346794059) by [@kraayenJon](https://x.com/kraayenJon), 0 likes.
+
+### Apps and tools
+
+- [Instant compaction for Claude](https://x.com/tamarajtran/status/2100694549362553153) by [@tamarajtran](https://x.com/tamarajtran), 10,435 likes.
+- [A canvas you control by pointing and speaking](https://x.com/jackcheng/status/2100729670991802386) by [@jackcheng](https://x.com/jackcheng), 4,797 likes.
+- [A real-time ad blocker](https://x.com/iam_zachi/status/2100529273186472318) by [@iam_zachi](https://x.com/iam_zachi), 3,872 likes.
+- [jev() for PostgreSQL](https://x.com/iam_zachi/status/2100679300756435135) by [@iam_zachi](https://x.com/iam_zachi), 2,738 likes.
+- [Keystroke oracle](https://x.com/dabit3/status/2100756930054504776) by [@dabit3](https://x.com/dabit3), 2,368 likes.
+- [An always-on assistant with no wake word](https://x.com/_MaxBlade/status/2100967959879471519) by [@_MaxBlade](https://x.com/_MaxBlade), 1,538 likes.
+- [Predictive spreadsheets](https://x.com/dabit3/status/2100780008193020049) by [@dabit3](https://x.com/dabit3), 1,169 likes.
+- [Simple Jev](https://x.com/picocreator/status/2101006253829046539) by [@picocreator](https://x.com/picocreator), 1,105 likes.
+- [A Downloads folder that sorts itself](https://x.com/marcelpociot/status/2100906882365788167) by [@marcelpociot](https://x.com/marcelpociot), 1,092 likes.
+- [Hide posts on X in plain language](https://x.com/marcelpociot/status/2100520134481735729) by [@marcelpociot](https://x.com/marcelpociot), 1,090 likes.
+- [YouTube sponsor skipper](https://x.com/tdinh_me/status/2100793777103466615) by [@tdinh_me](https://x.com/tdinh_me), 1,078 likes.
+- [askjev.ai](https://x.com/waynesutton/status/2100487878992388279) by [@waynesutton](https://x.com/waynesutton), 511 likes.
+- [jev-review](https://x.com/niazmorshed_/status/2100465662867218857) by [@niazmorshed_](https://x.com/niazmorshed_), 492 likes.
+- [Website to App](https://x.com/chddaniel/status/2100919415554617537) by [@chddaniel](https://x.com/chddaniel), 382 likes.
+- [Jev Calc](https://x.com/thekitze/status/2100873520951808403) by [@thekitze](https://x.com/thekitze), 318 likes.
+- [Real-time Clippy](https://x.com/sotak/status/2100701152824185319) by [@sotak](https://x.com/sotak), 175 likes.
+- [One-click invoice finder](https://x.com/FarouqAldori/status/2100711180704641520) by [@FarouqAldori](https://x.com/FarouqAldori), 43 likes.
+
+### Agents and computer use
+
+- [Flight search with Browser Use](https://x.com/gregpr07/status/2100411066966749359) by [@gregpr07](https://x.com/gregpr07), 8,723 likes.
+- [Voice-controlled computer use on a Mac](https://x.com/instantricecook/status/2100814590300889426) by [@instantricecook](https://x.com/instantricecook), 5,016 likes.
+- [Computer use without screenshots](https://x.com/milindlabs/status/2100631847155994852) by [@milindlabs](https://x.com/milindlabs), 1,823 likes.
+- [A chat bot with no LLM](https://x.com/CodingGarden/status/2100665210419950031) by [@CodingGarden](https://x.com/CodingGarden), 1,115 likes.
+- [End-to-end tests run by agents](https://x.com/o_kwasniewski/status/2100966838905585687) by [@o_kwasniewski](https://x.com/o_kwasniewski), 1,012 likes.
+- [A second-hand shopping agent](https://x.com/AlanDaitch/status/2100757989212754085) by [@AlanDaitch](https://x.com/AlanDaitch), 873 likes.
+- [Stagehand on a remote browser](https://x.com/kylejeong/status/2100622054945095934) by [@kylejeong](https://x.com/kylejeong), 743 likes.
+- [An agent with a Jev model router](https://x.com/rileybrown/status/2100607709317861879) by [@rileybrown](https://x.com/rileybrown), 281 likes.
+- [Headless Chromium agent](https://x.com/mormonnegro/status/2100408498446111031) by [@mormonnegro](https://x.com/mormonnegro), 213 likes.
+- [Agentic browsing in Chrome](https://x.com/razaanstha/status/2100645675591520612) by [@razaanstha](https://x.com/razaanstha), 194 likes.
+- [A chief of staff for bots](https://x.com/milindlabs/status/2100515910754750741) by [@milindlabs](https://x.com/milindlabs), 182 likes.
+- [A Slack agent, twice as fast](https://x.com/johnyeo_/status/2100987661926252737) by [@johnyeo_](https://x.com/johnyeo_), 148 likes.
+- [jev-job-hunter](https://x.com/hqmank/status/2100933183931900346) by [@hqmank](https://x.com/hqmank), 75 likes.
+- [Jev as an agent safety monitor](https://x.com/isNickMa/status/2100566407524344225) by [@isNickMa](https://x.com/isNickMa), 1 likes.
+
+### Triage and routing
+
+- [500 emails for 3.5 cents](https://x.com/rileybrown/status/2100404532119269426) by [@rileybrown](https://x.com/rileybrown), 3,853 likes.
+- [Triage across 1,500 emails](https://x.com/ryanvogel/status/2100042788851101842) by [@ryanvogel](https://x.com/ryanvogel), 3,538 likes.
+- [A model router on Jev](https://x.com/ephraimduncan/status/2100454070536351824) by [@ephraimduncan](https://x.com/ephraimduncan), 1,858 likes.
+- [400 companies matched to one candidate](https://x.com/sarvagya_kul/status/2100980770206879849) by [@sarvagya_kul](https://x.com/sarvagya_kul), 1,688 likes.
+- [Intent-based search in Gmail](https://x.com/dabit3/status/2100960281769738433) by [@dabit3](https://x.com/dabit3), 886 likes.
+- [Fraud detection with Jev and Kimi K3](https://x.com/nutlope/status/2100614659690713543) by [@nutlope](https://x.com/nutlope), 846 likes.
+- [900 images in 40 seconds](https://x.com/fayazara/status/2100953838891192789) by [@fayazara](https://x.com/fayazara), 433 likes.
+- [A prompt box that fills itself in](https://x.com/sawyerhood/status/2100994779291259187) by [@sawyerhood](https://x.com/sawyerhood), 193 likes.
+- [DiffJury](https://x.com/raihankhan_rk/status/2100584682664628454) by [@raihankhan_rk](https://x.com/raihankhan_rk), 81 likes.
+
+### Games and real time
+
+- [Jev plays Doom](https://x.com/CompleteSkeptic/status/2099925687465570372) by [@CompleteSkeptic](https://x.com/CompleteSkeptic), 4,890 likes.
+- [Jev plays Subway Surfers](https://x.com/_MaxBlade/status/2100634359099232678) by [@_MaxBlade](https://x.com/_MaxBlade), 3,956 likes.
+- [Jev plays Smash Bros. against itself](https://x.com/maubaron/status/2100738237237002706) by [@maubaron](https://x.com/maubaron), 3,620 likes.
+- [Jev plays Super Mario Bros.](https://x.com/faadilhshaik/status/2100086301894881578) by [@faadilhshaik](https://x.com/faadilhshaik), 2,860 likes.
+- [Game levels generated in real time](https://x.com/HugoDuprez/status/2100953089003921543) by [@HugoDuprez](https://x.com/HugoDuprez), 2,614 likes.
+- [Jev plays Slay the Spire 2](https://x.com/coolish/status/2100570517954838897) by [@coolish](https://x.com/coolish), 1,137 likes.
+- [Jev plays Tetris](https://x.com/AlanDaitch/status/2100438353946513815) by [@AlanDaitch](https://x.com/AlanDaitch), 48 likes.
+
+### Research and data
+
+- [jevlike](https://x.com/vinnylarouge/status/2100170846346097083) by [@vinnylarouge](https://x.com/vinnylarouge), 2,018 likes.
+- [1kpapers](https://x.com/nutlope/status/2100426999546184123) by [@nutlope](https://x.com/nutlope), 1,962 likes.
+- [openjev-sglang](https://x.com/ekzhang1/status/2100651678110515383) by [@ekzhang1](https://x.com/ekzhang1), 972 likes.
+- [openjev on Qwen 4B](https://x.com/justALEXWORTEGA/status/2100341039986798930) by [@justALEXWORTEGA](https://x.com/justALEXWORTEGA), 774 likes.
+- [A visual reference finder](https://x.com/albicodes/status/2100720936852857271) by [@albicodes](https://x.com/albicodes), 654 likes.
+- [A local Jev](https://x.com/wmoto_ai/status/2100454049359577516) by [@wmoto_ai](https://x.com/wmoto_ai), 387 likes.
+- [Which outreach signals book demos](https://x.com/pierreeliottlal/status/2100912453999587657) by [@pierreeliottlal](https://x.com/pierreeliottlal), 113 likes.
+
+### Trading and markets
+
+- [jev-trader](https://x.com/jarrodwatts/status/2100356151468585346) by [@jarrodwatts](https://x.com/jarrodwatts), 4,913 likes.
+- [$10,000 in Jev’s hands](https://x.com/abolbuild/status/2100523868913807410) by [@abolbuild](https://x.com/abolbuild), 1,606 likes.
 
 ## Try Jev free right now
 
@@ -514,6 +624,7 @@ Every entry with its source. Sorted by likes and by stars. Snapshot 2026-09-19.
 
 - will-it-hit. A live LinkedIn draft scorer. One call asks eight Score questions (hook, specificity, emotion, clarity, repostability, authority, algorithm fit, expected engagement) and one Choice question for post type. The rubrics carry real engagement numbers from LinkedIn posts. A separate LLM writes rewrites, and Jev scores each rewrite again so you see both numbers. The source is in a private repository for now.
 - linkedin-slop-blocker. A browser extension that scores every post in your LinkedIn feed as you scroll. Each post gets a "Slop" or "Not slop" pill with a percentage, and slop posts get a fading text treatment and a rotated SLOP stamp you can click away. That scroll style follows the [real-time slop detector demo](https://x.com/RBilgil/status/2100976648552169805) by @RBilgil. A free pattern scan runs first, then one Jev call per scroll returns a spam probability and a quality score for each post. It keeps your own API key in the browser and learns from posts you hide or dismiss. The source is in a private repository for now.
+- Jev tagger (inside linkedin-slop-blocker v0.5). A floating corner panel where you write your own categories, each with a name and a plain-English description, then pick colors. As you scroll LinkedIn, one Jev Choice question per post tags it with the best-fitting category, or leaves it untagged when confidence is low. Each category can be shown, dimmed or hidden, and clicking a counter chip focuses the feed on that category. It follows a demo by [@nateherk](https://x.com/nateherk), who tags X posts as breaking, golden nugget or slop. Two presets ship with it, "Signal or slop" and "By intent". The source is in a private repository for now.
 
 ## What Jev is
 
