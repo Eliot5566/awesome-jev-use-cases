@@ -16,6 +16,9 @@ Every entry links to the original post or repository. Ideas that nobody has ship
 
 ## Contents
 
+- [Start here](#start-here)
+- [Numbers at a glance](#numbers-at-a-glance)
+- [Popular demos, at a glance](#popular-demos-at-a-glance)
 - [The first week in numbers](#the-first-week-in-numbers)
 - [Most-liked demos](#most-liked-demos)
 - [Small accounts, big results](#small-accounts-big-results)
@@ -34,6 +37,36 @@ Every entry links to the original post or repository. Ideas that nobody has ship
 - [How this list was made](#how-this-list-was-made)
 - [Contributing](#contributing)
 
+## Start here
+
+Short on time? Read in this order.
+
+1. [Most-liked demos](#most-liked-demos) shows what people actually built.
+2. [Limits of Jev 1.13](#limits-of-jev-113) tells you what it cannot do, so you do not build the wrong thing.
+3. [Patterns](#patterns) shows how the working demos are put together.
+4. [Reported cost and latency](#reported-cost-and-latency) has the price and speed numbers.
+5. [Contributing](#contributing) shows how to add yours.
+
+## Numbers at a glance
+
+| Number | Value |
+| --- | --- |
+| Demo posts tracked | 74 |
+| Total likes | 127,162 |
+| Total reposts | 6,998 |
+| Total replies | 5,742 |
+| Median likes per demo | 1,045 |
+| Demos over 1,000 likes | 38 |
+| Median author followers | 12,769 |
+| Authors under 1,000 followers | 9 |
+| Open-source repos in the main list | 37 |
+| Combined stars in the main list | 21,456 |
+| Most common repo languages | TypeScript (14), Python (12), JavaScript (6), Shell (1) |
+| Most common licenses | MIT (27), none listed (6), Apache-2.0 (3) |
+| Busiest demo area | Content and growth (18 demos) |
+
+Demos by area: Content and growth 18, Apps and tools 17, Agents and computer use 14, Triage and routing 9, Games and real time 7, Research and data 7, Trading and markets 2.
+
 ## The first week in numbers
 
 Snapshot of 2026-09-19.
@@ -42,6 +75,16 @@ Snapshot of 2026-09-19.
 - 102 builder accounts checked. The median has 6,615 followers. 47 have under 5,000 and 26 have under 1,000.
 - 37 open-source repositories below, with 21,456 GitHub stars combined. Each one mentions Jev or TypeSafe in its own README.
 - The four most-liked demos are a Claude Code plugin, a browser agent, an ad teardown and a Mac voice assistant. None of them generates text with Jev.
+
+## Popular demos, at a glance
+
+Each frame is a low-resolution still from the builder's own video, linked to their post. Video and frame belong to the authors. Open the post to watch it. If an author wants a frame removed, open an issue and it goes.
+
+| | | |
+| --- | --- | --- |
+| [<img src="assets/thumbs/tamarajtran.jpg" width="260">](https://x.com/tamarajtran/status/2100694549362553153)<br>**Instant compaction for Claude**<br>@tamarajtran, 10,435 likes<br>[details](docs/demos/instant-compaction.md) | [<img src="assets/thumbs/gregpr07.jpg" width="260">](https://x.com/gregpr07/status/2100411066966749359)<br>**Flight search with Browser Use**<br>@gregpr07, 8,723 likes<br>[details](docs/demos/browser-use-flights.md) | [<img src="assets/thumbs/TheMattBerman.jpg" width="260">](https://x.com/TheMattBerman/status/2100654891756589230)<br>**724 competitor ads, broken down**<br>@TheMattBerman, 6,348 likes<br>[details](docs/demos/competitor-ad-teardown.md) |
+| [<img src="assets/thumbs/instantricecook.jpg" width="260">](https://x.com/instantricecook/status/2100814590300889426)<br>**Voice-controlled computer use on a Mac**<br>@instantricecook, 5,016 likes<br>[details](docs/demos/voice-computer-use-mac.md) | [<img src="assets/thumbs/jarrodwatts.jpg" width="260">](https://x.com/jarrodwatts/status/2100356151468585346)<br>**jev-trader**<br>@jarrodwatts, 4,913 likes<br>[details](docs/demos/jev-trader.md) | [<img src="assets/thumbs/jackcheng.jpg" width="260">](https://x.com/jackcheng/status/2100729670991802386)<br>**A canvas you control by pointing and speaking**<br>@jackcheng, 4,797 likes<br>[details](docs/demos/gesture-canvas.md) |
+| [<img src="assets/thumbs/iam_zachi.jpg" width="260">](https://x.com/iam_zachi/status/2100529273186472318)<br>**A real-time ad blocker**<br>@iam_zachi, 3,872 likes<br>[details](docs/demos/realtime-ad-blocker.md) | [<img src="assets/thumbs/rileybrown.jpg" width="260">](https://x.com/rileybrown/status/2100404532119269426)<br>**500 emails for 3.5 cents**<br>@rileybrown, 3,853 likes<br>[details](docs/demos/500-emails-3-cents.md) | [<img src="assets/thumbs/RBilgil.jpg" width="260">](https://x.com/RBilgil/status/2100976648552169805)<br>**Real-time slop detector as you scroll**<br>@RBilgil, 7,180 likes<br>[details](docs/demos/rbilgil-slop-detector.md) |
 
 ## Most-liked demos
 
@@ -577,11 +620,26 @@ Operations:
 
 Snapshot taken 2026-09-19. Post metrics (likes, reposts, replies) come from the posts themselves, read with yt-dlp. Follower counts come from treg. Repository stars, languages and licenses come from the GitHub API, and every repository was opened to confirm its README mentions Jev or TypeSafe. Descriptions are written from the original posts and READMEs and checked so that no number appears that the source did not contain. Metrics change by the hour, so treat them as a dated snapshot. Followers are counted today, after most of these posts went out, so the follower ratios understate how small the accounts were at the time.
 
-The two CSV files in [data](data) hold the same numbers.
+The two CSV files in [data](data) hold the same numbers, and [docs](docs/README.md) has one page per demo.
 
 ## Contributing
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md), then open a pull request.
+This list grows by pull request. Three ways to help, from smallest to largest.
+
+- Report a broken link, a wrong number or a dead repo. Open an issue with the "Fix an entry" form.
+- Suggest something new. Open an issue with the "Add an entry" form, or send a pull request.
+- Add a limit you hit. A failure with a reproduction is worth more than another success story.
+
+Where things live:
+
+| Path | What it holds |
+| --- | --- |
+| `README.md` | The list itself |
+| `docs/demos/` | One page per demo, with every metric and the source link |
+| `data/demos.csv`, `data/repos.csv` | The raw numbers behind the tables |
+| `assets/` | Banner, charts and preview frames |
+
+Full rules for an entry are in [CONTRIBUTING.md](CONTRIBUTING.md). Every entry needs a source link that opens, numbers named to whoever reported them, and one to three sentences.
 
 ## License
 
