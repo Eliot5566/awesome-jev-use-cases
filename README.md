@@ -21,6 +21,7 @@ Every entry links to the original post or repository. Ideas that nobody has ship
 - [Small accounts, big results](#small-accounts-big-results)
 - [More demos by area](#more-demos-by-area)
 - [Open source](#open-source)
+- [Full tables](#full-tables)
 - [By the maintainer](#by-the-maintainer)
 - [What Jev is](#what-jev-is)
 - [Cookbooks from TypeSafe](#cookbooks-from-typesafe)
@@ -43,6 +44,8 @@ Snapshot of 2026-09-19.
 
 ## Most-liked demos
 
+<p align="center"><img src="assets/chart-top-demos.svg" alt="Bar chart of the most-liked Jev demos" width="100%"></p>
+
 The 15 demo posts with the most likes, with the follower count of whoever posted them. Numbers are a snapshot of 2026-09-19.
 
 | Demo | By | Followers | Likes | Reposts |
@@ -64,6 +67,8 @@ The 15 demo posts with the most likes, with the follower count of whoever posted
 | [Jev plays Super Mario Bros.](https://x.com/faadilhshaik/status/2100086301894881578) | [@faadilhshaik](https://x.com/faadilhshaik) | 192 | 2,860 | 248 |
 
 ## Small accounts, big results
+
+<p align="center"><img src="assets/chart-small-accounts.svg" alt="Likes per follower for Jev demos" width="100%"></p>
 
 Likes divided by followers, for demos with at least 1,000 likes. A high ratio means the post traveled far beyond the author's own audience.
 
@@ -198,6 +203,131 @@ Repositories with a working project and a README that mentions Jev or TypeSafe. 
 - [itsmostafa/typesafe-mcp](https://github.com/itsmostafa/typesafe-mcp). MCP server that lets coding agents such as Claude Code and Codex call Jev and get probabilities to branch on. 97 stars, Go, MIT.
 - [jkudish/jev-mcp](https://github.com/jkudish/jev-mcp). MCP server giving agents ten Jev judgment tools, such as verifying claims against evidence and screening content before it enters context. 92 stars, TypeScript, MIT.
 - [dbreunig/building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill). Agent skill for writing and improving Jev programs. It teaches question design and how to diagnose wrong answers. 113 stars.
+
+## Full tables
+
+Every entry with its source. Sorted by likes and by stars. Snapshot 2026-09-19.
+
+### All demos
+
+| # | Demo | Author | Followers | Likes | Reposts | Posted | Source |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Instant compaction for Claude | [@tamarajtran](https://x.com/tamarajtran) | 12,739 | 10,435 | 631 | 2026-09-17 | [post](https://x.com/tamarajtran/status/2100694549362553153) |
+| 2 | Flight search with Browser Use | [@gregpr07](https://x.com/gregpr07) | 30,060 | 8,723 | 617 | 2026-09-17 | [post](https://x.com/gregpr07/status/2100411066966749359) |
+| 3 | Real-time slop detector as you scroll | [@RBilgil](https://x.com/RBilgil) | 685 | 7,180 | 210 | 2026-09-19 | [post](https://x.com/RBilgil/status/2100976648552169805) |
+| 4 | 724 competitor ads, broken down | [@TheMattBerman](https://x.com/TheMattBerman) | 12,799 | 6,348 | 389 | 2026-09-17 | [post](https://x.com/TheMattBerman/status/2100654891756589230) |
+| 5 | Voice-controlled computer use on a Mac | [@instantricecook](https://x.com/instantricecook) | 1,015 | 5,016 | 252 | 2026-09-18 | [post](https://x.com/instantricecook/status/2100814590300889426) |
+| 6 | jev-trader | [@jarrodwatts](https://x.com/jarrodwatts) | 32,542 | 4,913 | 216 | 2026-09-16 | [post](https://x.com/jarrodwatts/status/2100356151468585346) |
+| 7 | Jev plays Doom | [@CompleteSkeptic](https://x.com/CompleteSkeptic) | 122,369 | 4,890 | 240 | 2026-09-15 | [post](https://x.com/CompleteSkeptic/status/2099925687465570372) |
+| 8 | A canvas you control by pointing and speaking | [@jackcheng](https://x.com/jackcheng) | 11,724 | 4,797 | 254 | 2026-09-17 | [post](https://x.com/jackcheng/status/2100729670991802386) |
+| 9 | Jev plays Subway Surfers | [@_MaxBlade](https://x.com/_MaxBlade) | 22,962 | 3,956 | 253 | 2026-09-17 | [post](https://x.com/_MaxBlade/status/2100634359099232678) |
+| 10 | A real-time ad blocker | [@iam_zachi](https://x.com/iam_zachi) | 4,832 | 3,872 | 139 | 2026-09-17 | [post](https://x.com/iam_zachi/status/2100529273186472318) |
+| 11 | 500 emails for 3.5 cents | [@rileybrown](https://x.com/rileybrown) | 244,870 | 3,853 | 96 | 2026-09-17 | [post](https://x.com/rileybrown/status/2100404532119269426) |
+| 12 | Jev plays Smash Bros. against itself | [@maubaron](https://x.com/maubaron) | 19,783 | 3,620 | 334 | 2026-09-18 | [post](https://x.com/maubaron/status/2100738237237002706) |
+| 13 | Triage across 1,500 emails | [@ryanvogel](https://x.com/ryanvogel) | 18,403 | 3,538 | 106 | 2026-09-16 | [post](https://x.com/ryanvogel/status/2100042788851101842) |
+| 14 | 700 leads scored in 40 seconds | [@romanbuildsaas](https://x.com/romanbuildsaas) | 20,336 | 3,138 | 203 | 2026-09-18 | [post](https://x.com/romanbuildsaas/status/2100891604735099103) |
+| 15 | Jev plays Super Mario Bros. | [@faadilhshaik](https://x.com/faadilhshaik) | 192 | 2,860 | 248 | 2026-09-16 | [post](https://x.com/faadilhshaik/status/2100086301894881578) |
+| 16 | jev() for PostgreSQL | [@iam_zachi](https://x.com/iam_zachi) | 4,832 | 2,738 | 182 | 2026-09-17 | [post](https://x.com/iam_zachi/status/2100679300756435135) |
+| 17 | Game levels generated in real time | [@HugoDuprez](https://x.com/HugoDuprez) | 3,151 | 2,614 | 208 | 2026-09-18 | [post](https://x.com/HugoDuprez/status/2100953089003921543) |
+| 18 | Keystroke oracle | [@dabit3](https://x.com/dabit3) | 194,714 | 2,368 | 132 | 2026-09-18 | [post](https://x.com/dabit3/status/2100756930054504776) |
+| 19 | jevlike | [@vinnylarouge](https://x.com/vinnylarouge) | 1,392 | 2,018 | 168 | 2026-09-16 | [post](https://x.com/vinnylarouge/status/2100170846346097083) |
+| 20 | 1kpapers | [@nutlope](https://x.com/nutlope) | 100,148 | 1,962 | 139 | 2026-09-17 | [post](https://x.com/nutlope/status/2100426999546184123) |
+| 21 | A model router on Jev | [@ephraimduncan](https://x.com/ephraimduncan) | 6,705 | 1,858 | 66 | 2026-09-17 | [post](https://x.com/ephraimduncan/status/2100454070536351824) |
+| 22 | Computer use without screenshots | [@milindlabs](https://x.com/milindlabs) | 4,025 | 1,823 | 97 | 2026-09-17 | [post](https://x.com/milindlabs/status/2100631847155994852) |
+| 23 | Every’s editorial vibe check | [@danshipper](https://x.com/danshipper) | 123,938 | 1,818 | 90 | 2026-09-15 | [post](https://x.com/danshipper/status/2099947471518474522) |
+| 24 | 400 companies matched to one candidate | [@sarvagya_kul](https://x.com/sarvagya_kul) | 5,832 | 1,688 | 74 | 2026-09-18 | [post](https://x.com/sarvagya_kul/status/2100980770206879849) |
+| 25 | $10,000 in Jev’s hands | [@abolbuild](https://x.com/abolbuild) | 2,188 | 1,606 | 47 | 2026-09-17 | [post](https://x.com/abolbuild/status/2100523868913807410) |
+| 26 | An always-on assistant with no wake word | [@_MaxBlade](https://x.com/_MaxBlade) | 22,962 | 1,538 | 73 | 2026-09-18 | [post](https://x.com/_MaxBlade/status/2100967959879471519) |
+| 27 | Post scoring with SuperX | [@robj3d3](https://x.com/robj3d3) | 61,401 | 1,341 | 63 | 2026-09-17 | [post](https://x.com/robj3d3/status/2100722975645598191) |
+| 28 | Doomscroll Filter | [@robj3d3](https://x.com/robj3d3) | 61,401 | 1,213 | 47 | 2026-09-18 | [post](https://x.com/robj3d3/status/2101074194260000982) |
+| 29 | Predictive spreadsheets | [@dabit3](https://x.com/dabit3) | 194,714 | 1,169 | 55 | 2026-09-18 | [post](https://x.com/dabit3/status/2100780008193020049) |
+| 30 | The X algorithm, rebuilt with Jev | [@leojrr](https://x.com/leojrr) | 22,025 | 1,167 | 26 | 2026-09-17 | [post](https://x.com/leojrr/status/2100470174130250127) |
+| 31 | SEO and GEO fixes, 90% cheaper | [@irabukht](https://x.com/irabukht) | 19,093 | 1,146 | 63 | 2026-09-18 | [post](https://x.com/irabukht/status/2101090579127951694) |
+| 32 | Jev plays Slay the Spire 2 | [@coolish](https://x.com/coolish) | 64,731 | 1,137 | 93 | 2026-09-17 | [post](https://x.com/coolish/status/2100570517954838897) |
+| 33 | A chat bot with no LLM | [@CodingGarden](https://x.com/CodingGarden) | 13,749 | 1,115 | 63 | 2026-09-17 | [post](https://x.com/CodingGarden/status/2100665210419950031) |
+| 34 | Simple Jev | [@picocreator](https://x.com/picocreator) | 5,783 | 1,105 | 120 | 2026-09-18 | [post](https://x.com/picocreator/status/2101006253829046539) |
+| 35 | A Downloads folder that sorts itself | [@marcelpociot](https://x.com/marcelpociot) | 70,603 | 1,092 | 45 | 2026-09-18 | [post](https://x.com/marcelpociot/status/2100906882365788167) |
+| 36 | Hide posts on X in plain language | [@marcelpociot](https://x.com/marcelpociot) | 70,603 | 1,090 | 41 | 2026-09-17 | [post](https://x.com/marcelpociot/status/2100520134481735729) |
+| 37 | YouTube sponsor skipper | [@tdinh_me](https://x.com/tdinh_me) | 201,821 | 1,078 | 40 | 2026-09-18 | [post](https://x.com/tdinh_me/status/2100793777103466615) |
+| 38 | End-to-end tests run by agents | [@o_kwasniewski](https://x.com/o_kwasniewski) | 8,788 | 1,012 | 74 | 2026-09-18 | [post](https://x.com/o_kwasniewski/status/2100966838905585687) |
+| 39 | openjev-sglang | [@ekzhang1](https://x.com/ekzhang1) | 22,899 | 972 | 60 | 2026-09-17 | [post](https://x.com/ekzhang1/status/2100651678110515383) |
+| 40 | Live viral post analyzer | [@rileybrown](https://x.com/rileybrown) | 244,870 | 915 | 30 | 2026-09-17 | [post](https://x.com/rileybrown/status/2100425868053008758) |
+| 41 | Intent-based search in Gmail | [@dabit3](https://x.com/dabit3) | 194,714 | 886 | 34 | 2026-09-18 | [post](https://x.com/dabit3/status/2100960281769738433) |
+| 42 | A second-hand shopping agent | [@AlanDaitch](https://x.com/AlanDaitch) | 49,142 | 873 | 35 | 2026-09-18 | [post](https://x.com/AlanDaitch/status/2100757989212754085) |
+| 43 | Fraud detection with Jev and Kimi K3 | [@nutlope](https://x.com/nutlope) | 100,148 | 846 | 47 | 2026-09-17 | [post](https://x.com/nutlope/status/2100614659690713543) |
+| 44 | Ad creatives from filtered assets | [@higgsfield_ai](https://x.com/higgsfield_ai) | 232,876 | 824 | 108 | 2026-09-19 | [post](https://x.com/higgsfield_ai/status/2101117855622463719) |
+| 45 | openjev on Qwen 4B | [@justALEXWORTEGA](https://x.com/justALEXWORTEGA) | 635 | 774 | 47 | 2026-09-16 | [post](https://x.com/justALEXWORTEGA/status/2100341039986798930) |
+| 46 | Stagehand on a remote browser | [@kylejeong](https://x.com/kylejeong) | 8,105 | 743 | 43 | 2026-09-17 | [post](https://x.com/kylejeong/status/2100622054945095934) |
+| 47 | 3,282 posts, eight questions each | [@iannuttall](https://x.com/iannuttall) | 81,192 | 740 | 34 | 2026-09-17 | [post](https://x.com/iannuttall/status/2100668908227162567) |
+| 48 | A visual reference finder | [@albicodes](https://x.com/albicodes) | 10,546 | 654 | 27 | 2026-09-17 | [post](https://x.com/albicodes/status/2100720936852857271) |
+| 49 | TypeSafe Typewriter | [@stevekrouse](https://x.com/stevekrouse) | 11,267 | 587 | 28 | 2026-09-16 | [post](https://x.com/stevekrouse/status/2100287368221659289) |
+| 50 | Lurk | [@mxfp4](https://x.com/mxfp4) | 602 | 559 | 32 | 2026-09-18 | [post](https://x.com/mxfp4/status/2101070906852298910) |
+| 51 | askjev.ai | [@waynesutton](https://x.com/waynesutton) | 68,076 | 511 | 27 | 2026-09-17 | [post](https://x.com/waynesutton/status/2100487878992388279) |
+| 52 | jev-review | [@niazmorshed_](https://x.com/niazmorshed_) | 1,422 | 492 | 28 | 2026-09-17 | [post](https://x.com/niazmorshed_/status/2100465662867218857) |
+| 53 | 900 images in 40 seconds | [@fayazara](https://x.com/fayazara) | 8,177 | 433 | 8 | 2026-09-18 | [post](https://x.com/fayazara/status/2100953838891192789) |
+| 54 | A local Jev | [@wmoto_ai](https://x.com/wmoto_ai) | 1,441 | 387 | 49 | 2026-09-17 | [post](https://x.com/wmoto_ai/status/2100454049359577516) |
+| 55 | Website to App | [@chddaniel](https://x.com/chddaniel) | 27,842 | 382 | 25 | 2026-09-18 | [post](https://x.com/chddaniel/status/2100919415554617537) |
+| 56 | Jev Calc | [@thekitze](https://x.com/thekitze) | 102,836 | 318 | 15 | 2026-09-18 | [post](https://x.com/thekitze/status/2100873520951808403) |
+| 57 | Jev Detector | [@jozef_gherman](https://x.com/jozef_gherman) | 144 | 296 | 22 | 2026-09-17 | [post](https://x.com/jozef_gherman/status/2100627898436571555) |
+| 58 | An agent with a Jev model router | [@rileybrown](https://x.com/rileybrown) | 244,870 | 281 | 10 | 2026-09-17 | [post](https://x.com/rileybrown/status/2100607709317861879) |
+| 59 | A filter for reply-guy comments | [@iannuttall](https://x.com/iannuttall) | 81,192 | 250 | 4 | 2026-09-18 | [post](https://x.com/iannuttall/status/2100888635943883244) |
+| 60 | Headless Chromium agent | [@mormonnegro](https://x.com/mormonnegro) | 7,026 | 213 | 8 | 2026-09-17 | [post](https://x.com/mormonnegro/status/2100408498446111031) |
+| 61 | Agentic browsing in Chrome | [@razaanstha](https://x.com/razaanstha) | 525 | 194 | 12 | 2026-09-17 | [post](https://x.com/razaanstha/status/2100645675591520612) |
+| 62 | A prompt box that fills itself in | [@sawyerhood](https://x.com/sawyerhood) | 18,482 | 193 | 8 | 2026-09-18 | [post](https://x.com/sawyerhood/status/2100994779291259187) |
+| 63 | A chief of staff for bots | [@milindlabs](https://x.com/milindlabs) | 4,025 | 182 | 10 | 2026-09-17 | [post](https://x.com/milindlabs/status/2100515910754750741) |
+| 64 | Real-time Clippy | [@sotak](https://x.com/sotak) | 6,030 | 175 | 12 | 2026-09-17 | [post](https://x.com/sotak/status/2100701152824185319) |
+| 65 | A Slack agent, twice as fast | [@johnyeo_](https://x.com/johnyeo_) | 3,943 | 148 | 3 | 2026-09-18 | [post](https://x.com/johnyeo_/status/2100987661926252737) |
+| 66 | Which outreach signals book demos | [@pierreeliottlal](https://x.com/pierreeliottlal) | 9,774 | 113 | 13 | 2026-09-18 | [post](https://x.com/pierreeliottlal/status/2100912453999587657) |
+| 67 | DiffJury | [@raihankhan_rk](https://x.com/raihankhan_rk) | 3,470 | 81 | 4 | 2026-09-17 | [post](https://x.com/raihankhan_rk/status/2100584682664628454) |
+| 68 | X timeline labeler | [@the_cyw](https://x.com/the_cyw) | 1,199 | 79 | 3 | 2026-09-18 | [post](https://x.com/the_cyw/status/2101020586931875932) |
+| 69 | jev-job-hunter | [@hqmank](https://x.com/hqmank) | 12,060 | 75 | 4 | 2026-09-18 | [post](https://x.com/hqmank/status/2100933183931900346) |
+| 70 | 700 live ads in 40 seconds | [@Yarilo7brigada](https://x.com/Yarilo7brigada) | 1,993 | 59 | 5 | 2026-09-18 | [post](https://x.com/Yarilo7brigada/status/2100946657965912253) |
+| 71 | Jev plays Tetris | [@AlanDaitch](https://x.com/AlanDaitch) | 49,142 | 48 | 4 | 2026-09-17 | [post](https://x.com/AlanDaitch/status/2100438353946513815) |
+| 72 | One-click invoice finder | [@FarouqAldori](https://x.com/FarouqAldori) | 459 | 43 | 5 | 2026-09-17 | [post](https://x.com/FarouqAldori/status/2100711180704641520) |
+| 73 | Jev as an agent safety monitor | [@isNickMa](https://x.com/isNickMa) | 590 | 1 | 0 | 2026-09-17 | [post](https://x.com/isNickMa/status/2100566407524344225) |
+| 74 | AI slop detector | [@kraayenJon](https://x.com/kraayenJon) | 151 | 0 | 0 | 2026-09-19 | [post](https://x.com/kraayenJon/status/2101157548346794059) |
+
+### All repositories
+
+| Repo | Stars | Language | License | Last push | Source |
+| --- | --- | --- | --- | --- | --- |
+| browser-use/jev-ultrafast | 7,798 | Python | MIT | 2026-09-18 | [GitHub](https://github.com/browser-use/jev-ultrafast) |
+| tamaratran/fast-jev-compaction | 4,031 | TypeScript | MIT | 2026-09-18 | [GitHub](https://github.com/tamaratran/fast-jev-compaction) |
+| TheoLeeCJ/SemIf | 1,839 | Python | MIT | 2026-09-19 | [GitHub](https://github.com/TheoLeeCJ/SemIf) |
+| jarrodwatts/jev-trader | 1,184 | TypeScript | MIT | 2026-09-17 | [GitHub](https://github.com/jarrodwatts/jev-trader) |
+| vinnylarouge/jevlike | 961 | Python | MIT | 2026-09-16 | [GitHub](https://github.com/vinnylarouge/jevlike) |
+| vercel-labs/ai-cli | 805 | TypeScript | - | 2026-09-19 | [GitHub](https://github.com/vercel-labs/ai-cli) |
+| awlevin/typesafe-computer-use | 456 | Python | MIT | 2026-09-18 | [GitHub](https://github.com/awlevin/typesafe-computer-use) |
+| jaredpalmer/kev | 423 | Python | Apache-2.0 | 2026-09-19 | [GitHub](https://github.com/jaredpalmer/kev) |
+| thruwire/foreman | 359 | Python | MIT | 2026-09-19 | [GitHub](https://github.com/thruwire/foreman) |
+| devagrawal09/jev-review | 326 | TypeScript | MIT | 2026-09-17 | [GitHub](https://github.com/devagrawal09/jev-review) |
+| fhshaik/typesafe-mario | 278 | Python | - | 2026-09-16 | [GitHub](https://github.com/fhshaik/typesafe-mario) |
+| droidrun/mobile-jev | 209 | JavaScript | MIT | 2026-09-17 | [GitHub](https://github.com/droidrun/mobile-jev) |
+| realZachi/pg-jev | 204 | Shell | NOASSERTION | 2026-09-18 | [GitHub](https://github.com/realZachi/pg-jev) |
+| superagents-lab/jev-search | 199 | TypeScript | MIT | 2026-09-19 | [GitHub](https://github.com/superagents-lab/jev-search) |
+| gargpratyush/jev-router | 191 | JavaScript | MIT | 2026-09-19 | [GitHub](https://github.com/gargpratyush/jev-router) |
+| kitze/skillbox | 188 | TypeScript | MIT | 2026-09-19 | [GitHub](https://github.com/kitze/skillbox) |
+| wy-coliney/jev-browser-use | 176 | JavaScript | MIT | 2026-09-19 | [GitHub](https://github.com/wy-coliney/jev-browser-use) |
+| hr98w/jev-visual | 138 | Python | MIT | 2026-09-18 | [GitHub](https://github.com/hr98w/jev-visual) |
+| jkudish/jev-browser | 135 | TypeScript | MIT | 2026-09-19 | [GitHub](https://github.com/jkudish/jev-browser) |
+| kitze/unclutter | 129 | TypeScript | MIT | 2026-09-18 | [GitHub](https://github.com/kitze/unclutter) |
+| razorback16/openjev | 113 | Python | Apache-2.0 | 2026-09-18 | [GitHub](https://github.com/razorback16/openjev) |
+| dbreunig/building-with-jev-skill | 113 | - | - | 2026-09-17 | [GitHub](https://github.com/dbreunig/building-with-jev-skill) |
+| moritzkremb/jev-voice-browser | 110 | JavaScript | MIT | 2026-09-17 | [GitHub](https://github.com/moritzkremb/jev-voice-browser) |
+| itsmostafa/typesafe-mcp | 97 | Go | MIT | 2026-09-18 | [GitHub](https://github.com/itsmostafa/typesafe-mcp) |
+| jkudish/jev-mcp | 92 | TypeScript | MIT | 2026-09-19 | [GitHub](https://github.com/jkudish/jev-mcp) |
+| DevMortimer/pi-warden | 90 | TypeScript | MIT | 2026-09-19 | [GitHub](https://github.com/DevMortimer/pi-warden) |
+| vinilana/jev-eval-agent | 89 | HTML | - | 2026-09-17 | [GitHub](https://github.com/vinilana/jev-eval-agent) |
+| logan-markewich/jeff | 87 | Python | MIT | 2026-09-19 | [GitHub](https://github.com/logan-markewich/jeff) |
+| Mapika/decider | 86 | Python | Apache-2.0 | 2026-09-19 | [GitHub](https://github.com/Mapika/decider) |
+| pithings/advocaat | 84 | TypeScript | MIT | 2026-09-18 | [GitHub](https://github.com/pithings/advocaat) |
+| BillionsBobby/JevRouter | 81 | TypeScript | MIT | 2026-09-19 | [GitHub](https://github.com/BillionsBobby/JevRouter) |
+| tamaratran/jev-pruner | 80 | TypeScript | MIT | 2026-09-19 | [GitHub](https://github.com/tamaratran/jev-pruner) |
+| giuliosmall/pg_typesafe | 77 | C | MIT | 2026-09-18 | [GitHub](https://github.com/giuliosmall/pg_typesafe) |
+| RomanSlack/jev-drone | 71 | Python | MIT | 2026-09-17 | [GitHub](https://github.com/RomanSlack/jev-drone) |
+| mrnugget/jev-shell-history | 63 | TypeScript | - | 2026-09-18 | [GitHub](https://github.com/mrnugget/jev-shell-history) |
+| realZachi/typesafe-adblock | 53 | JavaScript | MIT | 2026-09-17 | [GitHub](https://github.com/realZachi/typesafe-adblock) |
+| RafalWilinski/vibecheck | 41 | JavaScript | - | 2026-09-18 | [GitHub](https://github.com/RafalWilinski/vibecheck) |
 
 ## By the maintainer
 
