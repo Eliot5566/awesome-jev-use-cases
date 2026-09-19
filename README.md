@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-v2.png" alt="Awesome Jev use cases" width="100%">
+  <img src="assets/banner-v3.png" alt="Awesome Jev use cases" width="100%">
 </p>
 
 <p align="center">
@@ -16,30 +16,7 @@ A list of things built with Jev, TypeSafe's model for typed decisions, with the 
 
 Every entry links to the original post or repository. Ideas that nobody has shipped are in their own section and marked as ideas.
 
-## Contents
-
-- [Top 30 popular demos](#top-30-popular-demos)
-- [Start here](#start-here)
-- [Browse by area](#browse-by-area)
-- [Try Jev free right now](#try-jev-free-right-now)
-- [Numbers at a glance](#numbers-at-a-glance)
-- [The first week in numbers](#the-first-week-in-numbers)
-- [Most-liked demos](#most-liked-demos)
-- [Small accounts, big results](#small-accounts-big-results)
-- [More demos by area](#more-demos-by-area)
-- [Open source](#open-source)
-- [Search demand](#search-demand)
-- [Full tables](#full-tables)
-- [By the maintainer](#by-the-maintainer)
-- [What Jev is](#what-jev-is)
-- [Cookbooks from TypeSafe](#cookbooks-from-typesafe)
-- [Patterns](#patterns)
-- [Limits of Jev 1.13](#limits-of-jev-113)
-- [Reported cost and latency](#reported-cost-and-latency)
-- [Ideas nobody has shipped yet](#ideas-nobody-has-shipped-yet)
-- [Tools](#tools)
-- [How this list was made](#how-this-list-was-made)
-- [Contributing](#contributing)
+<p align="center"><a href="https://ayautomate.com"><img src="assets/sponsor.png" alt="Sponsored by AY Automate" width="100%"></a></p>
 
 ## Top 30 popular demos
 
@@ -77,6 +54,32 @@ The 30 most-liked demos, ranked. Click a card to open the original post. Each ca
 <a href="https://x.com/dabit3/status/2100780008193020049"><img src="assets/cards/29-predictive-spreadsheets.svg" alt="#29 Predictive spreadsheets" width="49%"></a>
 <a href="https://x.com/leojrr/status/2100470174130250127"><img src="assets/cards/30-x-algorithm-simulator.svg" alt="#30 The X algorithm, rebuilt with Jev" width="49%"></a>
 </p>
+
+## Contents
+
+- [Top 30 popular demos](#top-30-popular-demos)
+- [Start here](#start-here)
+- [Browse by area](#browse-by-area)
+- [Try Jev free right now](#try-jev-free-right-now)
+- [Numbers at a glance](#numbers-at-a-glance)
+- [The first week in numbers](#the-first-week-in-numbers)
+- [Most-liked demos](#most-liked-demos)
+- [Small accounts, big results](#small-accounts-big-results)
+- [More demos by area](#more-demos-by-area)
+- [Open source](#open-source)
+- [Search demand](#search-demand)
+- [Full tables](#full-tables)
+- [By the maintainer](#by-the-maintainer)
+- [What Jev is](#what-jev-is)
+- [Cookbooks from TypeSafe](#cookbooks-from-typesafe)
+- [Patterns](#patterns)
+- [Limits of Jev 1.13](#limits-of-jev-113)
+- [Reported cost and latency](#reported-cost-and-latency)
+- [Ideas nobody has shipped yet](#ideas-nobody-has-shipped-yet)
+- [Tools](#tools)
+- [How this list was made](#how-this-list-was-made)
+- [Contributing](#contributing)
+
 
 ## Start here
 
@@ -792,6 +795,8 @@ Where things live:
 Full rules for an entry are in [CONTRIBUTING.md](CONTRIBUTING.md). Every entry needs a source link that opens, numbers named to whoever reported them, and one to three sentences.
 
 ## Sponsor
+
+<a href="https://ayautomate.com"><img src="assets/sponsor.png" alt="Sponsored by AY Automate" width="100%"></a>
 
 Sponsored by [AY Automate](https://ayautomate.com), an AI-native engineering company. This list stays free and open source.
 
