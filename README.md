@@ -10,7 +10,7 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/open%20source-CC0%201.0-blue.svg?style=flat-square" alt="Open source"></a>
 </p>
 
-# Awesome Jev use cases
+# Awesome Jev use cases: TypeSafe AI Jev demos, repos, limits and examples
 
 A list of things built with Jev, TypeSafe's model for typed decisions, with the numbers behind them: who posted each demo, how many followers they have, how many likes it got, and what the limits of the model are. This list is open source (CC0), free to copy and reuse, and sponsored by [AY Automate](https://ayautomate.com). It is unofficial and is not affiliated with TypeSafe.
 
@@ -58,6 +58,7 @@ The 30 most-liked demos, ranked. Click a card to open the original post. Each ca
 ## Contents
 
 - [Top 30 popular demos](#top-30-popular-demos)
+- [FAQ](#faq)
 - [Start here](#start-here)
 - [Browse by area](#browse-by-area)
 - [Try Jev free right now](#try-jev-free-right-now)
@@ -80,6 +81,37 @@ The 30 most-liked demos, ranked. Click a card to open the original post. Each ca
 - [How this list was made](#how-this-list-was-made)
 - [Contributing](#contributing)
 
+
+## FAQ
+
+Short answers to the questions people ask most, each with a source.
+
+**What is Jev?**
+Jev is a model from TypeSafe AI that answers typed questions instead of writing text. Each question is a Choice, a Score or a Noul (yes or no with a probability), and the answer comes back as a number or a pick with a confidence. It does not generate text. See [What Jev is](#what-jev-is).
+
+**Is Jev the same as the "Jev" that searches show for Jevons paradox or Deltarune?**
+No. The word has other meanings. Search for "TypeSafe Jev" or "Jev AI model".
+
+**How do I call the Jev API?**
+Send a POST to `https://api.typesafe.ai/v1/systemone` with a bearer key. A full curl example is in [docs/api-quickstart.md](docs/api-quickstart.md).
+
+**How much does Jev cost?**
+TypeSafe lists $42 per billion input tokens, and output tokens are free. Vercel says Jev is free on AI Gateway until Sept 25. See [Reported cost and latency](#reported-cost-and-latency).
+
+**What can I build with it?**
+Routers, classifiers, judges, guardrails, triage and game agents. The [Top 30 demos](#top-30-popular-demos) and [Browse by area](#browse-by-area) show real examples.
+
+**What are the limits of Jev?**
+It reads literally, is weak at math, counting and dates, and accuracy drops with irrelevant state. See [Limits of Jev 1.13](#limits-of-jev-113).
+
+**Is Jev better than an LLM?**
+It is a different tool. Use Jev for fast typed decisions and an LLM for writing. Many demos pair them.
+
+**Which open-source Jev projects exist?**
+More than 150 repositories. See [Open source](#open-source) and [Long tail](#long-tail).
+
+**Is this list official?**
+No. It is unofficial, open source under CC0, and sponsored by [AY Automate](https://ayautomate.com).
 
 ## Start here
 
