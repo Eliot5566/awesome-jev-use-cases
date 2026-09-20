@@ -53,6 +53,38 @@ Search volume undercounts this model because it launched days ago and the conver
 - GitHub: 150 or more repositories mention Jev or TypeSafe, and 111 of them appeared in a single search sweep. See [data/more-repos.csv](../data/more-repos.csv).
 - X: 74 demo posts with video, with the top one at 10,435 likes. See [data/demos.csv](../data/demos.csv).
 
+## Forecast: what happens next, from X and YouTube
+
+Run on 2026-09-20 with the enrich skill's search predictor, a YouTube search through yt-dlp, and the X demo data already in this repo. These are forecasts from early signals, not measurements. Check them against Google data in a few weeks.
+
+### Signals
+
+| Signal | Reading |
+| --- | --- |
+| YouTube | 65 videos about Jev, published 2026-09-15 to 2026-09-20, with 2.68 million views combined. Largest: Rob Shocks 359,278 views, Greg Isenberg 336,814, Caleb Writes Code 203,281, Sam Witteveen 197,796, Syntax 197,675. Full list in [data/youtube.csv](../data/youtube.csv). |
+| X | 74 demo posts with video. The top one has 10,435 likes. Vercel's free-window post has 552,601 views. |
+| News | The predictor found 50 articles in 7 days, including TechSpot and 36Kr. |
+| Vercel | Reports about 13% of AI Gateway teams tried Jev on day one. This is Vercel's number. |
+| Google Autocomplete | 0 suggestions for "jev typesafe" and "typesafe jev". Google has not started suggesting these phrases yet. |
+| Google Ads volume | The newest month reported is August 2026, before the launch. September is not in it yet. |
+
+The video counts come from three YouTube searches, so they undercount. The views are lifetime totals for each video, so a video's views are not a daily rate.
+
+### Predictions
+
+1. Search volume for "typesafe ai", "jev ai" and "jev model" jumps in the September and October data. Volume is already rising from a base of about 50 a month in late 2025, and it is the first time the model has had mainstream video and press coverage. The 4,400 a month for "jev" alone is a flat baseline from before launch, so it was some other meaning. If it climbs, that is the model.
+2. The next wave is how-to queries. The most-viewed titles say "how to use it", "explained" and "what can you build". The queries that follow are likely "how to use jev", "jev tutorial", "jev vs llm", "jev api" and "jev pricing". Google has no autocomplete for them yet, so a page that exists now can rank before competitors arrive.
+3. "jev pricing" and "jev free" spike after Sept 25. Vercel's free window ends that day, and people will look up what it costs.
+4. Router and judge content grows. Router repos are the largest group on GitHub, and "claude code router" already has 2,900 a month. A Jev tutorial for it fits both.
+5. Roundup lists get crowded fast. At least six other awesome-Jev lists exist. The list that keeps a lead is the one with numbers nobody else has, such as follower counts and reach ratios.
+
+### What could make these wrong
+
+- Launch spikes decay. The videos published on 09-17 and 09-18 hold most of the views, and the 09-20 videos have had less time. If new uploads slow within two weeks, expect volume to fall back.
+- The predictor's own "CROWDED" verdict for "jev typesafe" is an artifact. It scored an arbitrary heat input that I typed in, against zero autocomplete data. Ignore it.
+- The predictor's Wikipedia check picked the wrong page ("Type safety"), because Jev has no Wikipedia page. Its news check is the signal that worked.
+- Google Trends is blocked from this environment, so no trend line is included. Pull one by hand at trends.google.com for "jev" and "typesafe ai" over the past 7 days.
+
 ## Suggested content, in order
 
 1. A tutorial for "claude code router", built on a working Jev router from this list.

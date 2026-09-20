@@ -541,7 +541,7 @@ A second GitHub sweep on 2026-09-19 found 111 more repositories that mention Jev
 
 ## Search demand
 
-Deeper keyword research, live results-page checks and a content plan are in [docs/keyword-research.md](docs/keyword-research.md). The full list of 112 keywords is in [data/keywords.csv](data/keywords.csv).
+Deeper keyword research, live results-page checks, a forecast from X and YouTube data and a content plan are in [docs/keyword-research.md](docs/keyword-research.md). Views for 65 Jev YouTube videos are in [data/youtube.csv](data/youtube.csv). The full list of 112 keywords is in [data/keywords.csv](data/keywords.csv).
 
 <p align="center"><img src="assets/chart-search-demand.svg" alt="Monthly search volume for Jev related keywords" width="100%"></p>
 
